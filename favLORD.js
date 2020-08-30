@@ -3,7 +3,7 @@
 // from a random group of imaginary people
 // displaying 0's on the front to have a balance on how the display looks like
 
-function favLORD (first: number, second: number, third: number){
+function favLORD (first, second, third){
 
     let firstString = String(first);
     while(firstString.length < 5){

@@ -1,7 +1,7 @@
 // JOSE C.S. CURET
 // Just a simple power function, working iteratively
 
-function power(base: number, exponent: number){
+function power(base, exponent){
     let count = 1;
     let result = 1;
   

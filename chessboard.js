@@ -6,7 +6,7 @@ let height = 8;
 let width = 8;
 
 const hash = "#", space = " ";
-let n_hash: string = "";
+let n_hash = "";
 let count = 0;
 
 while(count < (width/2)){

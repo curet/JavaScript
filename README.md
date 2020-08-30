@@ -1,2 +1,2 @@
 # TypeScript-JavaScript
-Diving into TypeScript/JavasScript
+Diving into JavasScript
