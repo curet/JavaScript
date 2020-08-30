@@ -1,2 +1,2 @@
-# TypeScript-JavaScript
+# JavaScript
 Diving into JavasScript
