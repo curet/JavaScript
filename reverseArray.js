@@ -33,7 +33,9 @@ function reverseArrayInPlace(givenArray){
             givenArray[beginning++] = givenArray[arraySize];
             givenArray[arraySize--] = tempValue;
 
-    }while(beginning++ <= arraySize--);
+            beginning++; arraySize--;
+            
+    }while(beginning <= arraySize);
 
     return givenArray;
 }
